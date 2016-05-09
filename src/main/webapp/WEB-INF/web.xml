@@ -21,9 +21,9 @@
 	<servlet-mapping>
 		<servlet-name>spring-svc</servlet-name>
 		<url-pattern>/</url-pattern>
-	</servlet-mapping><!-- 
+	</servlet-mapping> 
 	<welcome-file-list>
 	<welcome-file>/WEB-INF/views/welcomePage.jsp</welcome-file>
-	</welcome-file-list> -->
+	</welcome-file-list> 
 	
 </web-app>
